@@ -4,4 +4,5 @@ cau
 <h1>lalala</h1>
 aahahahah
 
-![E0355C2E-4822-49D3-928F-5908A173E9D6]
+
+![vanesa bilde](https://github.com/user-attachments/assets/44916c81-b976-43c6-b04f-c9ae2930f383)
